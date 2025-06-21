@@ -23,7 +23,7 @@
 
   <h2>📦 Installation & Running</h2>
   <p>1. Clone the repository or download the source code:</p>
-  <pre><code>git clone https://github.com/yourusername/snake-game-90s.git</code></pre>
+  <pre><code>git clone https://github.com/Makzz1/snake_game.git</code></pre>
 
   <p>2. Run the game using:</p>
   <pre><code>python snake.py</code></pre>
@@ -40,13 +40,17 @@
   <h2>📁 File Structure</h2>
   <pre><code>
 snake-game-90s/
-├── main.py             # Main game logic
-├── highscore.txt        # File to store the high score
-├── README.html          # This README file
+snake_game_90s/
+├── main.py          # Entry point – sets up game screen and runs the game loop
+├── snake.py         # Snake class – movement, growth, collision
+├── food.py          # Food class – food generation
+├── highscore.txt    # Stores the high score
+└── README.md   
   </code></pre>
 
   <h2>✨ Screenshots</h2>
-  <p><em>(Add screenshots here of the gameplay and high-score display)</em></p>
+ ![image](https://github.com/user-attachments/assets/e02dd1d5-856b-4d3a-905e-3c7936e91f65)
+
 
   <h2>🧠 Learning Objectives</h2>
   <ul>
@@ -60,7 +64,7 @@ snake-game-90s/
   <p>Pull requests and improvements are welcome! Feel free to fork the repository and enhance the game further with sound, themes, or difficulty levels.</p>
 
   <h2>📬 Contact</h2>
-  <p>Developed by <strong>Maghizh</strong>. For suggestions or feedback, reach out at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+  <p>Developed by <strong>Maghizh</strong>. For suggestions or feedback, reach out at <a href="mailto:your-maghizhvanban@gmail.com">your-email@example.com</a>.</p>
 
 </body>
 </html>
