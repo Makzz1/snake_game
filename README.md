@@ -64,7 +64,7 @@ snake_game_90s/
   <p>Pull requests and improvements are welcome! Feel free to fork the repository and enhance the game further with sound, themes, or difficulty levels.</p>
 
   <h2>📬 Contact</h2>
-  <p>Developed by <strong>Maghizh</strong>. For suggestions or feedback, reach out at <a href="mailto:your-maghizhvanban@gmail.com">your-email@example.com</a>.</p>
+  <p>Developed by <strong>Maghizh</strong>. For suggestions or feedback, reach out at <a href="mailto:your-maghizhvanban@gmail.com">maghizhvanban@gmail.com</a>.</p>
 
 </body>
 </html>
