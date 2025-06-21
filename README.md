@@ -49,7 +49,7 @@ snake_game_90s/
   </code></pre>
 
   <h2>✨ Screenshots</h2>
- ![image](https://github.com/user-attachments/assets/e02dd1d5-856b-4d3a-905e-3c7936e91f65)
+  ![image](https://github.com/user-attachments/assets/cd8f79cf-6406-43ef-8033-eeb7a5535bde)
 
 
   <h2>🧠 Learning Objectives</h2>
