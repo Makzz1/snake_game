@@ -1,7 +1,7 @@
 import turtle
 import food
 
-f = open(".venv/high_score.txt", "r")
+f = open("high_score.txt", "r")
 high_score = int(f.read())
 f.close()
 
@@ -32,7 +32,7 @@ class Scoreboard(turtle.Turtle):
         self.write("reset:press r", font=FONT)
         self.goto(x=-80,y=-60)
         self.write("to exit:press q",font=FONT)
-        f = open(".venv/high_score.txt", "w")
+        f = open("high_score.txt", "w")
         f.write(str(self.high_score))
         f.close()
 
